@@ -48,7 +48,7 @@ topics:
     web_url: https://github.com/dotnet/core
     image_url: https://pluralsight.imgix.net/paths/path-icons/csharp-e7b8fcd4ce.png
 
-  - name: Microsoft SQL Server
+  - name: TSQL & Microsoft SQL Server
     image_url: https://fixstream.com/wp-content/uploads/2015/08/ms-sql-server-logo-square.jpg
     
   - name: ASP.NET Core
