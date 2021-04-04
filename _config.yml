@@ -49,7 +49,8 @@ topics:
     image_url: https://pluralsight.imgix.net/paths/path-icons/csharp-e7b8fcd4ce.png
 
   - name: T-SQL & Microsoft SQL Server
-    image_url: https://www.lifewire.com/thmb/5YFa5z_LuVa2MWIDceddSknrv-M=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/kisspng-microsoft-sql-server-windows-server-2008-r2-b47d7cc742ab406d87b638c3ecd3f598.jpg
+    web_url: https://www.microsoft.com/en-us/sql-server
+    image_url: http://www.zdnet.de/wp-content/uploads/2015/05/microsoft_sql-server-logo.png
     
   - name: ASP.NET Core
     web_url: https://github.com/aspnet/AspNetCore
