@@ -48,9 +48,21 @@ topics:
     web_url: https://github.com/dotnet/core
     image_url: https://pluralsight.imgix.net/paths/path-icons/csharp-e7b8fcd4ce.png
 
-  - name: TSQL & Microsoft SQL Server
-    image_url: https://fixstream.com/wp-content/uploads/2015/08/ms-sql-server-logo-square.jpg
+  - name: T-SQL & Microsoft SQL Server
+    image_url: https://www.lifewire.com/thmb/5YFa5z_LuVa2MWIDceddSknrv-M=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/kisspng-microsoft-sql-server-windows-server-2008-r2-b47d7cc742ab406d87b638c3ecd3f598.jpg
     
   - name: ASP.NET Core
     web_url: https://github.com/aspnet/AspNetCore
     image_url: https://ih1.redbubble.net/image.366684650.5673/flat,550x550,075,f.u1.jpg
+  
+  - name: Angular
+    web_url: https://angular.io/
+    image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png
+
+  - name: Microsoft Azure
+    web_url: https://azure.microsoft.com/en-us/
+    image_url: https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png
+  
+  - name: Docker
+    web_url: https://www.docker.com/
+    image_url: https://download.logo.wine/logo/Docker_(software)/Docker_(software)-Logo.wine.png
