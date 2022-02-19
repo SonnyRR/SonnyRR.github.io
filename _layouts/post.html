@@ -64,7 +64,14 @@
         </div>
       </div>
       {% if page.comments %}
-        {% include disqus.html %}
+      <script src="https://utteranc.es/client.js"
+        repo="SonnyRR/SonnyRR.github.io"
+        issue-term="title"
+        label="comment 📝"
+        theme="photon-dark"
+        crossorigin="anonymous"
+        async>
+      </script>
       {% endif %}
     </div>
   </div>
