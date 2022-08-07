@@ -32,7 +32,7 @@ social_media:
   # dribbble: your_username
   facebook: 100009525593432
   hackerrank: VasilKotsev
-  # linkedin: your_username
+  linkedin: vasilkotsev
   # medium: @your_username
   # stackoverflow: your_user_id
   # telegram: your_username
@@ -56,6 +56,10 @@ topics:
     web_url: https://github.com/aspnet/AspNetCore
     image_url: https://ih1.redbubble.net/image.366684650.5673/flat,550x550,075,f.u1.jpg
   
+  - name: Blazor
+    web_url: https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor
+    image_url: https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png
+
   - name: Angular
     web_url: https://angular.io/
     image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png
