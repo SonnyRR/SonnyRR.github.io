@@ -17,7 +17,7 @@ defaults:
       layout: "post"
 
 projects:
-  sort_by: pushed
+  sort_by: stars
   # sort_by options:
   #   - pushed
   #   - stars
@@ -30,7 +30,7 @@ projects:
 social_media:
   # behance: your_username
   # dribbble: your_username
-  facebook: 100009525593432
+  # facebook: your_username
   hackerrank: VasilKotsev
   linkedin: vasilkotsev
   # medium: @your_username
