@@ -11,4 +11,4 @@ comments: true
 <br />
 
 **Може да прочетете цялото интервю на:**
-https://softuni.bg/blog/vasil-kocev-success-story
+<a href="https://softuni.bg/blog/vasil-kocev-success-story">https://softuni.bg/blog/vasil-kocev-success-story</a>
