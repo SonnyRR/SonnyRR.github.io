@@ -3,6 +3,9 @@ title: "Учене чрез правене от малък – успешнат�
 published: true
 comments: true
 ---
-[![cover](https://softuni.bg/Files/Publications/2020/09/Vasil-kocev_135813141.png)](https://softuni.bg/blog/vasil-kocev-success-story)
+
+<a href="https://softuni.bg/blog/vasil-kocev-success-story">
+    <img src="https://softuni.bg/Files/Publications/2020/09/Vasil-kocev_135813141.png" height="392.5" width="750"/>
+</a>
 
 https://softuni.bg/blog/vasil-kocev-success-story
