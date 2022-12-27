@@ -8,4 +8,7 @@ comments: true
     <img src="https://softuni.bg/Files/Publications/2020/09/Vasil-kocev_135813141.png" height="100%" width="100%"/>
 </a>
 
+<br />
+
+**Може да прочетете цялото интервю на:**
 https://softuni.bg/blog/vasil-kocev-success-story
